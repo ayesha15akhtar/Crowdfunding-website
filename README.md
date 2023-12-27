@@ -50,6 +50,9 @@ After creating the `.env` file, follow these steps to install dependencies and d
    Ensure your MetaMask private key is correctly configured in the `.env` file to sign the deployment transaction.
 
    Follow the link that appears in the terminal and deploy the contract in the desired network. (Polygon or Ethereum).
+   
+   My contract deployment link is as follows:
+   https://thirdweb.com/mumbai/0xDDd1DBb6B42Bb30ac97eBf8aa6c19Cd914E13B07/explorer
 
    The deployment process will provide you with the contract address once it's successfully deployed.
 
